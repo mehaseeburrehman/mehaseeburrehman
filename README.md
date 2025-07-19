@@ -2,9 +2,10 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehaseeburrehman&label=Profile%20views&color=0e75b6&style=flat" alt="mehaseeburrehman" /> </p>
-<table width="100%">
+
+<table>
   <tr>
-    <td width="60%" valign="top">
+    <td>
       <ul>
         <li>🔭 I’m currently working on <strong>ADVANCE WEB AND MERN PROJECTS</strong></li>
         <li>🌱 I’m currently learning <strong>AI/ML</strong></li>
@@ -12,7 +13,7 @@
         <li>📫 How to reach me: <strong>mehaseeburrehman@gmail.com</strong></li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="top">
+    <td>
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRoMHE1aXZ5NnY0NmM2eWh6MnNzbmMwazJtbGozZjdpN3BiYWtrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="250" height="250" alt="coding gif" />
     </td>
   </tr>
