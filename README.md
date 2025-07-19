@@ -2,11 +2,10 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehaseeburrehman&label=Profile%20views&color=0e75b6&style=flat" alt="mehaseeburrehman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehaseeburrehman" alt="mehaseeburrehman" /></a> </p>
-<p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRoMHE1aXZ5NnY0NmM2eWh6MnNzbmMwazJtbGozZjdpN3BiYWtrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="244" height="244">
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehaseeburrehman" alt="mehaseeburrehman" /></a> </p>
+<p align="right">
 
 - 🔭 I’m currently working on **ADVANCE WEB AND MERN PROJECTS**
 
