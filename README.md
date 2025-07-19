@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehaseeburrehman&theme=dark" alt="mehaseeburrehman" /></p>
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRoMHE1aXZ5NnY0NmM2eWh6MnNzbmMwazJtbGozZjdpN3BiYWtrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="512" height="244">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRoMHE1aXZ5NnY0NmM2eWh6MnNzbmMwazJtbGozZjdpN3BiYWtrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="244" height="244">
 </p>
