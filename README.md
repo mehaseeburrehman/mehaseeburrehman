@@ -6,9 +6,6 @@
 <table>
   <tr>
     <td>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=mehaseeburrehman&label=Profile%20views&color=0e75b6&style=flat" alt="mehaseeburrehman" />
-      </p>
       <ul>
         <li>🔭 I’m currently working on <strong>ADVANCE WEB AND MERN PROJECTS</strong></li>
         <li>🌱 I’m currently learning <strong>AI/ML</strong></li>
