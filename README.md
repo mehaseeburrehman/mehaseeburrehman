@@ -2,16 +2,6 @@
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehaseeburrehman&label=Profile%20views&color=0e75b6&style=flat" alt="mehaseeburrehman" /> </p>
-## 🧑‍💻 About Me
-
-Hi! I'm **Haseeb Ur Rehman**, a passionate Full Stack Developer with a love for building powerful web applications and exploring the intersection of software and intelligence.
-
-- 🔧 I specialize in the **MERN stack** and love creating scalable and responsive web applications.
-- 🤖 I’m currently diving deep into **Artificial Intelligence & Machine Learning**.
-- 📡 I'm also interested in **IoT projects**.
-- 🎯 My goal is to build tech that makes everyday life easier and smarter.
-- 💬 Always up for a good conversation about tech, problem-solving, or a challenging idea!
-
 <table>
   <tr>
     <td>
