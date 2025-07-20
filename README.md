@@ -13,7 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRoMHE1aXZ5NnY0NmM2eWh6MnNzbmMwazJtbGozZjdpN3BiYWtrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRoMHE1aXZ5NnY0NmM2eWh6MnNzbmMwazJtbGozZjdpN3BiYWtrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 ```javascript
 const haseeb = {
